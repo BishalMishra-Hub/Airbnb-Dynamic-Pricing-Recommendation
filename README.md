@@ -1,3 +1,12 @@
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:10b981&height=200&section=header&text=Airbnb%20Pricing%20Engine&fontSize=46&fontColor=ffffff&animation=fadeIn"
+    alt="Marketing Campaign Data Cleaning"
+    style="border-radius:14px; box-shadow:0 10px 30px rgba(2,6,23,0.35);
+           border:1px solid rgba(255,255,255,0.06);"
+  />
+</div>
+
 # Airbnb Dynamic Pricing Recommendation Engine
 
 ## Project Overview
